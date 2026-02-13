@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Hand in Hand, Heart in Heart",
+  "base_artist": "ノノミ(CV:三浦千幸)",
+  "createdAt": "2026-02-13T23:07:22.346809Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hand in Hand, Heart in Heart",
+      "artist": "ノノミ(CV:三浦千幸)",
+      "has_synced": false,
+      "path": "select/pl_01_Hand_in_Hand,_Heart_in_Heart_ノノミ(CV_三浦千幸).txt"
+    }
+  ]
+}
